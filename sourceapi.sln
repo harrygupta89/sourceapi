@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sourceapi", "sourceapi\sourceapi.csproj", "{68B97AF3-2C8A-4C2B-9A5D-D0D209F7F85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B97AF3-2C8A-4C2B-9A5D-D0D209F7F85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B97AF3-2C8A-4C2B-9A5D-D0D209F7F85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B97AF3-2C8A-4C2B-9A5D-D0D209F7F85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B97AF3-2C8A-4C2B-9A5D-D0D209F7F85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A09C8219-C05A-4F94-ABAD-11AD235C0DAC}
+	EndGlobalSection
+EndGlobal
